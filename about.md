@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A proud student of Moringa School
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Orchardson is a young man who enjoys a large number of things among them sports such as running,handball,basketball etc.I enjoy travelling,music,games and have a passion for coding
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:orchardsonbett@gmail.com)
