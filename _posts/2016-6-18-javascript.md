@@ -3,7 +3,7 @@ layout: post
 title: Javascript
 ---
 
-# What is Javascript
+**What is Javascript**
 
 Javascript is not java
 

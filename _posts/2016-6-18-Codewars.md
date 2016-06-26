@@ -1,5 +1,3 @@
-# Codewars
-
 It's a platform that allows a person to train in different languages used in coding where the trainee can use a number of languages in order to be ranked in terms of *Kyu's*
 
 A code trainee is ranked from:
