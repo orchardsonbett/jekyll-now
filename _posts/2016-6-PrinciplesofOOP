@@ -1,4 +1,4 @@
-Principles of Object-Oriented Programming
+Four Principles of Object-Oriented Programming
 
 ..1.*Encapsulation* The idea behind encapsulation is that the variables of a class can only be accessed through the method of that class, not from any other class. So in order to access the private variables of a particular class is by invoking the method of that class. So, the method encapsulates the data types of that class. The result of failing to use the idea of Encapsulation is that the data types get read and written from everywhere else, ending up with spaghetti code, meaning a code that is very difficult to understand and therefore very difficult to fix and modify.
 
